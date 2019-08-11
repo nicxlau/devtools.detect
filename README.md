@@ -16,7 +16,7 @@
 
 ```javascript
 devtools.detect(function(status){
-	console.log('Is DevTools open?', status);
+	alert('Is DevTools open? ' + status);
 });
 ```
 
