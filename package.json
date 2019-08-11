@@ -1,0 +1,39 @@
+{
+	"name": "devtools-detect",
+	"version": "1.0.0",
+	"description": "Detect if browser devTools is open",
+	"license": "MIT",
+	"repository": "jco666/devtools-detect",
+	"author": {
+		"name": "Jacob K.",
+		"email": "fedhrm@gmail.com",
+		"url": "lsdev.cf"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && tsd"
+	},
+	"files": [
+		"devtools-detect.js",
+		"devtools-detect.min.js"
+	],
+	"keywords": [
+		"browser",
+		"detect",
+		"identify",
+		"check",
+		"dev",
+		"devtools",
+		"developer",
+		"orientation",
+		"placement",
+		"docked"
+	],
+	"xo": {
+		"envs": [
+			"browser"
+		]
+	}
+}
