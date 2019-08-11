@@ -1,4 +1,4 @@
-# devtools-detect
+# devtools.detect
 
 ### Detect if browser devTools is open
 
