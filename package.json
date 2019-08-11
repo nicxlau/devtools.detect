@@ -3,7 +3,11 @@
 	"version": "1.0.0",
 	"description": "Detect if browser devTools is open",
 	"license": "MIT",
-	"repository": "jco666/devtools-detect",
+	"readmeFilename": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jco666/devtools-detect.git"
+	},
 	"author": {
 		"name": "Jacob K.",
 		"email": "fedhrm@gmail.com",
@@ -11,9 +15,6 @@
 	},
 	"engines": {
 		"node": ">=8"
-	},
-	"scripts": {
-		"test": "xo && tsd"
 	},
 	"files": [
 		"devtools-detect.js",
@@ -30,10 +31,5 @@
 		"orientation",
 		"placement",
 		"docked"
-	],
-	"xo": {
-		"envs": [
-			"browser"
-		]
-	}
+	]
 }
