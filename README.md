@@ -15,11 +15,17 @@ devtools.detect(function(status){
 
 ## Support browsers
 
-- Chrome
-- Firefox
-- Opera
-- Safari
+| Browser       | Supported     |
+| ------------- | ------------- |
+| Chrome        | ✓             |
+| Firefox       | ✓             |
+| Opera         | ✓             |
+| Safari        | ✓             |
+| Mobile Safari | ✓&sup1;       |
+| Edge          | ✓             |
+| IE11          | -             |
+| IE10          | - |
 
 ## License
 
-MIT © [Jacob K.](http://lsdev.cf)
+[MIT](LICENSE) © [Jacob K.](http://lsdev.cf)
