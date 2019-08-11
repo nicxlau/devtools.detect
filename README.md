@@ -2,8 +2,7 @@
 
 ## Detect if browser devTools is open
 
-> Also works if DevTools is undocked.
-> Useful for when you want something to happen when DevTools is open.
+> Also works if DevTools is undocked. Useful for when you want something to happen when DevTools is open.
 
 ## Usage
 
@@ -15,16 +14,16 @@ devtools.detect(function(status){
 
 ## Support browsers
 
-| Browser       | Supported     |
-| ------------- | ------------- |
-| Chrome        | ✓             |
-| Firefox       | ✓             |
-| Opera         | ✓             |
-| Safari        | ✓             |
-| Mobile Safari | ✓&sup1;       |
-| Edge          | ✓             |
-| IE11          | -             |
-| IE10          | - |
+| Browser	| Supported	|
+| ------------- | -------------	|
+| Chrome	| ✓		|
+| Firefox	| ✓		|
+| Opera		| ✓		|
+| Safari	| ✓		|
+| Mobile Safari	| ✓&sup1;	|
+| Edge		| ✓		|
+| IE11		| ✓		|
+| IE10		| ✓ 		|
 
 ## License
 
