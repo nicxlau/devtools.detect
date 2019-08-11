@@ -1,6 +1,6 @@
 # devtools.detect
 
-### Detect if browser devTools is open
+### Detect if browser DevTools is open
 
 > Also works if DevTools is undocked. Useful for when you want something to happen when DevTools is open.
 
