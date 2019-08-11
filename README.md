@@ -4,7 +4,7 @@
 
 > Also works if DevTools is undocked. Useful for when you want something to happen when DevTools is open.
 
-### [Demo](https://jco666.github.io/devtools.detect/)
+### [Demo](https://jco666.github.io/devtools.detect/){:target="_blank"}.
 
 ## CDN
 
